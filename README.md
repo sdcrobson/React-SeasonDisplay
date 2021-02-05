@@ -1,2 +1,2 @@
 # React-SeasonDisplay
-React Web App that uses geographical location tagging to display different messages and icons on the screen.
+Depending on if you are in the northern or southern hemisphere, this React.js web application will display icons and a message on the screen using geolocation.
